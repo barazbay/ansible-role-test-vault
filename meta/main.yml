@@ -1,0 +1,11 @@
+galaxy_info:
+  author: Ilshat Karazbaev
+  description: vault pass check playbook
+  company: Ilshat Karazbaev
+  min_ansible_version: 2.10
+  github_branch: develop
+  platforms:
+    - name: CentOS
+      versions:
+        - 8
+dependencies: []
